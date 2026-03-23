@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Lalit Dhakad<br>I am a Data Science student and developer based in Madhya Pradesh. I believe that data is the most valuable resource for rural and industrial growth.<br><br>🌱 Currently Learning: Machine Learning workflows and Advanced Python Optimization.<br><br>📂 Key Projects: Researching industrial trends and sustainable MSME models.<br><br>⚡ Fun Fact: I’m a firm believer in the power of Python for both competitive coding and deep data exploration.
+Hi, I'm Lalit Dhakad<br>I am a Data Science student and developer based in Madhya Pradesh. I believe that data is the most valuable resource for rural and industrial growth.<br><br>🌱 Currently Learning: Machine Learning workflows and Advanced Python Optimization.<br><br>⚡ Fun Fact: I’m a firm believer in the power of Python for both competitive coding and deep data exploration.
 
 
 # 💻 Tech Stack:
